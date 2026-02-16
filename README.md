@@ -75,7 +75,7 @@ The Power BI dashboard provides:
 
 ## 📌 Project Workflow
 ```
-Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
+Raw Dataset → Excel Cleaning → SQL Analysis → Power BI Dashboard
 ```
 
 ---
@@ -84,12 +84,12 @@ Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
 ```
 📦 myntra-data-analysis
  ┣ 📄 README.md
- ┣ 📄 MYNTRA RAW DATASET.csv.gz
- ┣ 📄 Myntra Business Problem Document.docx
- ┣ 📄 project myntra.sql
- ┣ 📄 MYNTRA PROJECT.ipynb
- ┣ 📊 MYNTRA.pbix
- ┣ 📊 MYNTRA PRESENTATION.pptx
+ ┣ 📄 Bookings-20000-Rows.xlsx
+ ┣ 📄 Ola Business Problem Document.docx
+ ┣ 📄 ola booking analysis.sql
+ ┣ 📄 ola analysis.xlsx
+ ┣ 📊 ola bookings.pbix
+ ┣ 📊 Ola Ride Data Analysis Report.pptx
 
 ```
 
